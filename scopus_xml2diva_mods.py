@@ -54,7 +54,7 @@ u += s  ## concatenating u and s
 print(u)
 
 
-### Stop reading here - everything below is gibberish
+### STOP READING HERE - BELOW US GIBBERISH
 
 
 ##### https://www.datacamp.com/community/tutorials/python-xml-elementtree #####
