@@ -1,1 +1,3 @@
 # scopus_xml2diva_mods
+
+Trying my best to experimentally create a Scopus-XML file to DiVA-MODS. So far in vain. I'm just a humble librarian after all...
